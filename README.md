@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on: Front-end projects using HTML, CSS,js, Tailwind CSS, and Bootstrap.<br>🌱 I’m always learning: Currently exploring JavaScript and continuously improving my web development skills.<br>👯 I’m looking to collaborate on: Open-source web projects.<br>🤔 I’m looking for help with: JavaScript best practices.<br>💬 Ask me about: Web development and UI design.<br>📫 How to reach me: [rahmaabdalhkeem730@gmail.com]<br>⚡ Fun fact: I love experimenting with new CSS effects
+🔭 I’m currently working on: Front-end projects using HTML, CSS, JS, Tailwind CSS, and Bootstrap.<br>🌱 I’m always learning: Currently exploring JavaScript and continuously improving my web development skills.<br>👯 I’m looking to collaborate on: Open-source web projects.<br>🤔 I’m looking for help with: JavaScript best practices.<br>💬 Ask me about: Web development and UI design.<br>📫 How to reach me: [rahmaabdalhkeem730@gmail.com]<br>⚡ Fun fact: I love experimenting with new CSS effects
 
 
 ## 🌐 Socials:
