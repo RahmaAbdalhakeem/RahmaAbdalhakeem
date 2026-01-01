@@ -7,7 +7,7 @@
 ---
 
 ## 🔗 Portfolio
-[🌐 View Live Portfolio](https://rahmaabdalhakeem.github.io/Personal-Portfolio/)
+[🌐 View Live Portfolio](https://rahmaabdalhakeem.github.io/front-end-junior-personal-)
 
 ---
 
