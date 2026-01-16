@@ -19,7 +19,4 @@
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
 
----
 
-⭐ If you like it, give it a Star on GitHub!  
-[![GitHub stars](https://img.shields.io/github/stars/RahmaAbdalhakeem/Personal-Portfolio?style=social)](https://github.com/RahmaAbdalhakeem/Personal-Portfolio/stargazers)
